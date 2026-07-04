@@ -1,8 +1,8 @@
-# Bitcoin Market Sentiment vs Trader Performance Analysis
+# Coin Market Sentiment vs Trader Performance Analysis
 
 ## Project Overview
 
-This project analyzes the relationship between the Bitcoin Fear & Greed Index and historical trading activity. The objective is to determine whether market sentiment influences trader performance and trading behaviour by combining sentiment data with historical trade records.
+This project analyzes the relationship between the Coin Fear & Greed Index and historical trading activity. The objective is to determine whether market sentiment influences trader performance and trading behaviour by combining sentiment data with historical trade records.
 
 ## Objectives
 
